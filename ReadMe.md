@@ -18,5 +18,6 @@ The goal is to create a functional carousel with JavaScript, by adding arrows to
 ## Clone the project:
 `` git clone https://github.com/Romain871/Print-it-projet-5.git ``
 
-
+## Site Git Hub Pages : 
+https://romain871.github.io/Print-it/
 
